@@ -1,0 +1,18 @@
+{
+    "componentConfigs": [
+        {
+            "id": "e8d86334-156d-e40b-9618-a6a54bb94b25",
+            "folder": "",
+            "name": "",
+            "dependencies": [],
+            "type": "IoTHub",
+            "componentInfo": {
+                "values": {
+                    "iotHubConnectionString": "",
+                    "eventHubConnectionString": "",
+                    "eventHubConnectionPath": ""
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "Device"
+        }
+    ],
+    "settings": {
+        "IoTWorkbench.BoardId": "devkit",
+        "IoTWorkbench.DevicePath": "Device",
+        "IoTWorkbench.iothubConnectionString": "",
+        "IoTWorkbench.eventHubConnectionString": "",
+        "IoTWorkbench.eventHubConnectionPath": "",
+        "IoTWorkbench.iothubDeviceConnectionString": ""
+    }
+}
